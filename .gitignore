@@ -1,0 +1,17 @@
+# Ignorar cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignorar vídeos e outros binários grandes
+*.mp4
+*.avi
+*.mov
+
+# Ignorar ambientes virtuais locais
+venv/
+.env/
+
+# Ignorar arquivos temporários do sistema
+.DS_Store
+Thumbs.db
